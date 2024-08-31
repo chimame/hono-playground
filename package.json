@@ -8,10 +8,16 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
     "vite": "^4.5.0",
     "wrangler": "^3.13.2"
   },
   "dependencies": {
-    "monaco-editor": "^0.44.0"
+    "monaco-editor": "^0.44.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "sucrase": "^3.35.0"
   }
 }
